@@ -1,0 +1,37 @@
+const mongoose = require("mongoose");
+const { required } = require("react-admin");
+
+const userSchema = new mongoose.Schema({
+    name:{
+        type:String,
+        required:true,
+        trim:true,
+    },
+    email:{
+        type:String,
+        required:true,
+        trim:true,
+    },
+    password:{
+        type:String,
+        required:true,
+    },
+    question:{
+        type:String,
+        required:true
+    },
+    role:{
+        type:String,
+        enum:["Admin", "Student", "Visitor"],
+        default:"Visitor"
+    },
+    address:{
+        type:{}
+    },
+
+    phone:{
+        type:Number
+    }
+});
+
+module.exports = mongoose.model("user", userSchema);
