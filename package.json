@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js",
     "client": "npm start --prefix ./client",
-    "server": "concurrently \"npm run start\" \"npm run client\""
+    "server": "concurrently \"npm start\" \"npm run client\""
   },
   "keywords": [],
   "author": "",
