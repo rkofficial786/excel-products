@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const { required } = require("react-admin");
+
 
 const userSchema = new mongoose.Schema({
     name:{
