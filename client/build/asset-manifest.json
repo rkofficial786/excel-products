@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c4e574.css",
-    "main.js": "/static/js/main.83bf1f82.js",
+    "main.js": "/static/js/main.15d3194f.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/download.jpeg": "/static/media/download.8fba02b5ddba13d6f40f.jpeg",
     "static/media/Working-with-a-Newsletter-Company.jpg": "/static/media/Working-with-a-Newsletter-Company.67c30f18eb0d4a5326ea.jpg",
@@ -11,11 +11,11 @@
     "static/media/_designer-drawing-website-mockup_4460x4460-e1535966009253.jpeg": "/static/media/61cc49b82486cd1fe5530539_designer-drawing-website-mockup_4460x4460-e1535966009253.0b3b541ba9cd2ee1837d.jpeg",
     "index.html": "/index.html",
     "main.e6c4e574.css.map": "/static/css/main.e6c4e574.css.map",
-    "main.83bf1f82.js.map": "/static/js/main.83bf1f82.js.map",
+    "main.15d3194f.js.map": "/static/js/main.15d3194f.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c4e574.css",
-    "static/js/main.83bf1f82.js"
+    "static/js/main.15d3194f.js"
   ]
 }
