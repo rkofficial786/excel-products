@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.640a1293.css",
-    "main.js": "/static/js/main.25c2ef9e.js",
+    "main.css": "/static/css/main.6efeb0bb.css",
+    "main.js": "/static/js/main.ca403408.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/download.jpeg": "/static/media/download.8fba02b5ddba13d6f40f.jpeg",
     "static/media/Working-with-a-Newsletter-Company.jpg": "/static/media/Working-with-a-Newsletter-Company.67c30f18eb0d4a5326ea.jpg",
@@ -10,12 +10,12 @@
     "static/media/istockphoto-1371324023-170667a.jpg": "/static/media/istockphoto-1371324023-170667a.37c0beae762d577b44ac.jpg",
     "static/media/_designer-drawing-website-mockup_4460x4460-e1535966009253.jpeg": "/static/media/61cc49b82486cd1fe5530539_designer-drawing-website-mockup_4460x4460-e1535966009253.0b3b541ba9cd2ee1837d.jpeg",
     "index.html": "/index.html",
-    "main.640a1293.css.map": "/static/css/main.640a1293.css.map",
-    "main.25c2ef9e.js.map": "/static/js/main.25c2ef9e.js.map",
+    "main.6efeb0bb.css.map": "/static/css/main.6efeb0bb.css.map",
+    "main.ca403408.js.map": "/static/js/main.ca403408.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.640a1293.css",
-    "static/js/main.25c2ef9e.js"
+    "static/css/main.6efeb0bb.css",
+    "static/js/main.ca403408.js"
   ]
 }
